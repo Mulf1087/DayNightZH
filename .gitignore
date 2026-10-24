@@ -1,0 +1,7 @@
+.DS_Store
+Backups/
+Assets/DayNight.iconset/
+Dist/*
+!Dist/昼夜外观.dmg
+__pycache__/
+*.pyc
